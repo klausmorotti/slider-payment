@@ -1,6 +1,6 @@
 <h1 align="center">SLIDER DE PAGAMENTO</h1>
 
-<img src="landingpage-gif.gif" alt="Video Projeto" width="100%" height="500">
+<img src="src/assets/gif-slider-payment.gif" alt="Video Projeto" width="100%" height="500">
 
 > 🔎 Funcionalidade de Slider de pagamento onde informamos dados de endereço e pagamento. <br>
 🗔 Confira a aplicação: https://landing-page-reactjs-26cc5lv3m-klausmorotti.vercel.app/ <br>
@@ -58,7 +58,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 📝 Licença
 
-Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/klausmorotti/landing-page-reactjs/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
+Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/klausmorotti/slider-payment/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
 
 
 <a href="#top">Volte para o topo</a>
