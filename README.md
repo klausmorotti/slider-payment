@@ -3,7 +3,7 @@
 <img src="src/assets/gif-slider-payment.gif" alt="Video Projeto" width="100%" height="500">
 
 > 🔎 Funcionalidade de Slider de pagamento onde informamos dados de endereço e pagamento. <br>
-🗔 Confira a aplicação: https://landing-page-reactjs-26cc5lv3m-klausmorotti.vercel.app/ <br>
+🗔 Confira a aplicação: https://slider-payment.vercel.app/ <br>
 
 ## 📄 Explicação
 Hoje em dia fazemos diversos pedidos de forma delivery onde é entregue em nossa residência e não temos como fugir do pagamento não é mesmo? rsrs, então vamos torna-lo mais dinâmico e bonito com o slider pelo aplicativo.
